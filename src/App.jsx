@@ -43,7 +43,7 @@ import MyCard from'./components/MyCard'
           image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fnbcblk%2Fdj-khaled-drops-major-keys-success-n707211&psig=AOvVaw1Pib7GLGN9KnmQvk8O34aC&ust=1697835737521000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC5-pSBg4IDFQAAAAAdAAAAABAJ",
         },
         {
-          fullname: "Mary  banky Rose",
+          fullname: "Mary  bankys",
           position: "HR",
           phone: +34567890,
           location: "florida",
